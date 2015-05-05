@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/p0bailey/python_pip.svg?branch=master)](https://travis-ci.org/p0bailey/python_pip)
+
 # Python Pip boilerplate.
 
 A simple python project boilerplate to start packaging python code with Pip.
