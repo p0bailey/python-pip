@@ -4,3 +4,6 @@ python:
 script:
   - python setup.py test
   - python setup.py sdist
+
+notifications:
+  email: true
