@@ -12,7 +12,7 @@ http://www.scotttorborg.com/python-packaging/
 
 
 ```
-git clone git@bitbucket.org:p0bailey/python_pip.git
+git clone git@bitbucket.org:p0bailey/python-pip.git
 
 virtualenv .env
 
